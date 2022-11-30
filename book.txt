@@ -1,0 +1,15 @@
+2 2 4 7
+isbn1 title1 author1 category1 index1 2 0 3
+0 1 10 -1 -1 N/A 0
+1 1 10 -1 -1 N/A 1
+student1 20
+3 0 15 15 65 teacher1 0
+isbn2 title2 author2 category1 index2 0 0 1
+5 0 15 20 50 student3 3
+student2 30
+teacher1 40
+teacher2 50
+isbn3 title2 author1 category2 index3 1 0 1
+6 1 0 -1 -1 N/A 0
+isbn4 title4 author4 category2 index4 1 0 1
+7 1 2 -1 -1 N/A 0
